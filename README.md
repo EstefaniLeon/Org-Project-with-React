@@ -5,14 +5,6 @@ Project Practice
 Hello, This is a practice with <a href="https://create-react-app.dev/" target="_blank">create-react-app</a> is a website to organize your team in one place.
 </div>
 
-<div align="center">
-  <h3>
-    <a href="  ">
-      Demo 😺
-    </a>
-  </h3>
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
