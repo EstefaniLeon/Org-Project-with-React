@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+<h1 align="center">Org Project with React</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+Project Practice
+Hello, This is a practice with <a href="https://create-react-app.dev/" target="_blank">create-react-app</a> is a website to organize your team in one place.
+</div>
 
-## Available Scripts
+<div align="center">
+  <h3>
+    <a href="  ">
+      Demo 😺
+    </a>
+  </h3>
+</div>
 
-In the project directory, you can run:
+<!-- TABLE OF CONTENTS -->
 
-### `npm start`
+## Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Overview](#overview)
+- [Built With 🛠️](#built-with-🛠️)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<!-- OVERVIEW -->
 
-### `npm test`
+## Overview
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![screenshot](https://github.com/EstefaniLeon/Org-Project-with-React/blob/master/public/img/Screenshot.PNG)
 
-### `npm run build`
+<!-- BUILD WITH -->
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Built With 🛠️
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+_Technologies used in the project:_
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [HTML 5](https://es.wikipedia.org/wiki/HTML) - Layout and web structure.
+- [CSS 3](https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada) - Style design.
+- [JavaScript](https://es.wikipedia.org/wiki/JavaScript) - Development.
+- [Visual Studio Code](https://code.visualstudio.com/) - Text Editor.
+- [Create React App](https://github.com/facebook/create-react-app) 
+- [Figma](https://www.figma.com/file/QBNgwXTRmgZTk4wPVMvul7/Intro-a-React-Org?node-id=134%3A266&t=Y56fyK16YQswqk7e-1) - Figma Design.
+- [Monserrat Font](https://fonts.google.com/specimen/Montserrat) - Text font.
+- [Prata Font](https://fonts.google.com/specimen/Prata) - Text font.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Acknowledgements
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
+- [Create React App](https://github.com/facebook/create-react-app)
+- [running tests](https://facebook.github.io/create-react-app/docs/running-tests)
+- [deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- [React documentation](https://reactjs.org/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<!-- CONTACT -->
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contact
 
-## Learn More
+- [GitHub](https://github.com/EstefaniLeon)
+- [Twitter](https://twitter.com/Esleos1)
+- [LinkedIn](https://www.linkedin.com/in/estefani-leon-osorio/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Author ✒️
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+_If you have some feedback or like what I do, give me a DM and share my content, you can also follow me on my networks to be aware of new publications and interesting projects that I will be developing._
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Designed with 💖 - by [Estefani León Osorio](https://github.com/EstefaniLeon)
